@@ -1,0 +1,20 @@
+return {
+	bg = "#0f1416",
+	fg = "#dee3e6",
+	surface = "#0f1416",
+	surface_variant = "#40484c",
+	outline = "#8a9296",
+	primary = "#88d1ec",
+	primary_container = "#004e61",
+	secondary = "#b3cad4",
+	secondary_container = "#344a52",
+	tertiary = "#c3c3eb",
+	tertiary_container = "#424465",
+
+	red = "#ffb4ab",
+	green = "#c3c3eb",
+	yellow = "#b3cad4",
+	blue = "#88d1ec",
+	magenta = "#004e61",
+	cyan = "#424465",
+}
